@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KSEB Meter Reader</string>
+    <string name="textview">KSEB Meter Reader</string>
+    <string name="consumer_number">Consumer Number :</string>
+    <string name="login">Login</string>
+    <string name="onephasetxt">One Phase :</string>
+    <string name="threephasetxt">Three Phase :</string>
+    <string name="onepcheckbox"></string>
+    <string name="threepcheckbox"></string>
+    <string name="currentunit">Current Unit :</string>
+    <string name="previousunit">Previous Unit :</string>
+    <string name="button">SUBMIT</string>
+    <string name="totalttxt">Total Cost :</string>
+</resources>
